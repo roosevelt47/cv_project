@@ -1,5 +1,5 @@
 body {
-    background-color: #ffe8d6
+    background-color: #d2ecf9;
 }
 
 hr {
@@ -9,4 +9,14 @@ hr {
     border-width: 7px;
     height: 0px;
     width: 7%;
+}
+
+h1 {
+    font-size: xxx-large;
+    color: #253b6e;
+
+}
+
+h3 {
+    color: #1f5f8b;
 }
