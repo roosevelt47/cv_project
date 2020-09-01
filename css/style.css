@@ -1,22 +1,33 @@
+/***************************************************TAG SELECTORS***********************************************************/
 body {
-    background-color: #d2ecf9;
+  background-color: #d2ecf9;
 }
 
 hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-color: grey;
-    border-width: 7px;
-    height: 0px;
-    width: 7%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  height: 0px;
+  width: 7%;
 }
 
 h1 {
-    font-size: xxx-large;
-    color: #253b6e;
-
+  font-size: xxx-large;
+  color: #253b6e;
 }
 
 h3 {
+<<<<<<< Updated upstream
     color: #1f5f8b;
 }
+=======
+  color: #1f5f8b;
+}
+
+/***************************************************CLASS SELECTORS***********************************************************/
+.profile {
+  border-radius: 8px;
+  border: 3px solid #555;
+}
+>>>>>>> Stashed changes
