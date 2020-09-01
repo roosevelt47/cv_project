@@ -14,7 +14,7 @@ hr {
 
 h1 {
   font-size: xxx-large;
-  color: #253b6e;
+  color: lightsalmon;
 }
 
 h3 {
@@ -29,4 +29,10 @@ h3 {
 
 img {
   border-color: #d2ecf9;
+}
+
+/***************************************************ID SELECTORS***********************************************************/
+#heading {
+  font-size: xxx-large;
+  color: #253b6e;
 }
